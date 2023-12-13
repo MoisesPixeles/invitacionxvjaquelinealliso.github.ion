@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.empresapixeles.com/index.html</loc>
+    <lastmod>2020-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.empresapixeles.com/images/ilya-pavlov-87438-unsplash.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.empresapixeles.com/images/laptop-wallpapers5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.empresapixeles.com/images/apple-macbook-pro-touch-bar-15-inch-2017-4194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.empresapixeles.com/images/caspar-camille-rubin-669071-unsplash.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
